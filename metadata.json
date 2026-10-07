@@ -1,0 +1,6 @@
+{
+  "name": "PocketTrip AI",
+  "description": "Budget-first AI travel planner that finds destinations and crafts complete itineraries fitting your exact budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
